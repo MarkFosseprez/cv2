@@ -1,0 +1,26 @@
+body {
+  background-color: #F1F3F4;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 7px;
+  border-color: #512B58;
+  width: 5%;
+}
+
+h1 {
+  color: #2A7886;
+  text-decoration: underline;
+  text-shadow: 2px 3px grey;
+}
+
+h3 {
+  color: #79BAC1;
+  text-decoration: underline;
+}
+
+input :active {
+  color: red;
+}
